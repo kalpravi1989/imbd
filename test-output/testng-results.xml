@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17529" started-at="2022-12-22T20:44:30 CST" finished-at="2022-12-22T20:44:47 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17529" started-at="2022-12-22T20:44:30 CST" finished-at="2022-12-22T20:44:47 CST">
+      <class name="imdb.ImdbPro">
+        <test-method status="PASS" signature="setup()[pri:0, instance:imdb.ImdbPro@43738a82]" name="setup" is-config="true" duration-ms="2531" started-at="2022-12-22T20:44:30 CST" finished-at="2022-12-22T20:44:32 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:imdb.ImdbPro@43738a82]" name="test1" duration-ms="11127" started-at="2022-12-22T20:44:32 CST" finished-at="2022-12-22T20:44:43 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:imdb.ImdbPro@43738a82]" name="teardown" is-config="true" duration-ms="161" started-at="2022-12-22T20:44:43 CST" finished-at="2022-12-22T20:44:44 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:imdb.ImdbPro@43738a82]" name="setup" is-config="true" duration-ms="1591" started-at="2022-12-22T20:44:44 CST" finished-at="2022-12-22T20:44:45 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:imdb.ImdbPro@43738a82]" name="test2" duration-ms="1956" started-at="2022-12-22T20:44:45 CST" finished-at="2022-12-22T20:44:47 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:imdb.ImdbPro@43738a82]" name="teardown" is-config="true" duration-ms="136" started-at="2022-12-22T20:44:47 CST" finished-at="2022-12-22T20:44:47 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- imdb.ImdbPro -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
